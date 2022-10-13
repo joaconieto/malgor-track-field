@@ -1,0 +1,15 @@
+#noticias {
+    height: 600px;
+  
+    .container {
+      display: grid;
+      grid-template-columns: auto auto auto;
+    }
+  }
+
+  
+  .noti {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }

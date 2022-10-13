@@ -1,0 +1,69 @@
+#contacto {
+  background-color: rgb(30, 30, 30);
+}
+
+.contac, .form-label {
+  color: white;
+}
+
+footer {
+  background-color: rgb(30, 30, 30);
+}
+footer p {
+  margin: 0;
+  color: white;
+}
+footer .container {
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+#hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  height: 90vh;
+  color: white;
+  background-image: url(../assets/img/remeraMymedalla1.jpg);
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center center;
+}
+
+#informacion {
+  background-color: rgb(30, 30, 30);
+  height: 500px;
+}
+#informacion .container {
+  color: white;
+  justify-content: center;
+  text-align: center;
+}
+
+#noticias {
+  height: 600px;
+}
+#noticias .container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.noti {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+#sobre-nosotros .container {
+  height: 700px;
+  padding: 200px 12px;
+}
+
+/*# sourceMappingURL=main.css.map */

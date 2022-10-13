@@ -1,0 +1,16 @@
+{
+  "name": "malgor",
+  "version": "1.0.0",
+  "description": "pagina web para un club de atletismo de la ciudad de mar del plata (malgor track & field)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
